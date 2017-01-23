@@ -14,6 +14,27 @@
 ### 设计模式
 * 23种 参见GOF
 
+### Linux系统
+* 系统启动
+	* arm汇编
+	* boot编写
+	* 内存分区
+* 进程
+	* 进程
+	* 线程
+	* 生命周期
+	* 调度时间片
+* 内存管理
+	* mmap
+	* 分配机制
+* 文件系统
+	* ext4
+	* inode
+	* rootfs
+* 中断机制
+* 通讯机制
+* CMD
+
 ### Android系统
 * 控件绘制流程
 	* view
@@ -47,26 +68,6 @@
 * 虚拟机
 	* Delvik
 	* Art
-* 通讯机制
-
-### Linux系统
-* 系统启动
-	* arm汇编
-	* boot编写
-	* 内存分区
-* 进程
-	* 进程
-	* 线程
-	* 生命周期
-	* 调度时间片
-* 内存管理
-	* mmap
-	* 分配机制
-* 文件系统
-	* ext4
-	* inode
-	* rootfs
-* 中断机制
 * 通讯机制
 
 ### 应用层架构
@@ -205,4 +206,6 @@
 * MySQL
 * LAMP/LNMP
 * Web
-* Js，CSS，HTML
+* JavaScript
+* Docker
+* Redis
