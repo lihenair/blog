@@ -2,12 +2,6 @@
 
 ### 情商
 
-### 架构
-* MVC
-* MVP
-* MVVM
-* VIPER
-
 ### Java
 * 基础知识
 * 注解
@@ -74,6 +68,12 @@
 	* rootfs
 * 中断机制
 * 通讯机制
+
+### 应用层架构
+* MVC
+* MVP
+* MVVM
+* VIPER
 
 ### UI
 #### 流程
@@ -172,6 +172,7 @@
 * android-architecture
 * Reative Nate
 * Weex
+* AndResGuard
 
 ### 热门技术
 * AMP
@@ -192,6 +193,8 @@
 * 机器学习
 * 大数据
 * H5
+* SVG
+* Databinding
 
 ### 工具
 * FireBase
